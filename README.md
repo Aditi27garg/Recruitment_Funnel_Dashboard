@@ -90,6 +90,7 @@ sourcing, offers, speed, and pay. All of it.
 
 ## Dashboard Preview(Screenshot/Demos)
 https://github.com/Aditi27garg/Recruitment_Funnel_Dashboard/blob/main/assets/01_executive_summary.png
+https://github.com/Aditi27garg/Recruitment_Funnel_Dashboard/blob/main/assets/02_funnel_offer_analysis.png
 
 Built by Aditi Garg  
-[LinkedIn](https://linkedin.com/in/your-id-here)
+[LinkedIn](https://www.linkedin.com/in/aditigarg2712/)
