@@ -16,14 +16,14 @@ and I wanted to understand it.
 
 ## What Each Page Is Actually Doing
 
-**Page 1 — Executive Summary**  
+**Page 1 - Executive Summary**  
 The big picture before anyone asks for it. 1,980 
 applications, 660 offers, 365 hires. Sales is rejecting 
 54% of our offers that's 1 in 2. Diversity clears 
 the benchmark at 56.16%, which is genuinely good. 
 Everything else needs a conversation.
 
-**Page 2 — Recruitment Funnel & Offer Analysis**  
+**Page 2 - Recruitment Funnel & Offer Analysis**  
 This one surprised me the most.
 
 57 candidates left for better offers elsewhere. Not 
@@ -36,7 +36,7 @@ city is fine. Just Bangalore. That's not a national
 pattern, it's a localised salary problem and it needs 
 a separate fix.
 
-**Page 3 — Hiring Efficiency & Recruiter Performance**  
+**Page 3 - Hiring Efficiency & Recruiter Performance**  
 Recruiter A closes 1 in 2. Recruiter C closes 3 in 5. 
 That 13-point gap isn't about effort or attitude,
 it shows up consistently in the numbers. 220 hires took 
@@ -46,7 +46,7 @@ on top. Total time from application to joining is roughly
 people between offer and onboarding and not really 
 talking about it.
 
-**Page 4 — Diversity & Compensation**  
+**Page 4 - Diversity & Compensation**  
 Gender split is 48.2% female, 51.78% male. Close to 
 parity but parity in headcount isn't the same as 
 equity in pay. Junior candidates are getting offers 
