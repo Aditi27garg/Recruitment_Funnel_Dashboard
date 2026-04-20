@@ -89,7 +89,7 @@ It's a case for fixing how the whole process works —
 sourcing, offers, speed, and pay. All of it.
 
 ## Dashboard Preview(Screenshot/Demos)
-
+https://github.com/Aditi27garg/Recruitment_Funnel_Dashboard/blob/main/assets/01_executive_summary.png
 
 Built by Aditi Garg  
 [LinkedIn](https://linkedin.com/in/your-id-here)
